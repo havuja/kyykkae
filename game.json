@@ -1,0 +1,17 @@
+{
+  "game_id": 1,
+  "game_type": 1,
+  "rounds":[
+    {
+      "round":1,
+      "finnished":false,
+      "teams":[
+        {
+          "team_id": 1,
+          "team_name": "string",
+          "points": -40
+        }
+      ]
+    }
+  ]
+}

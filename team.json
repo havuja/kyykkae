@@ -1,0 +1,11 @@
+{
+  "team_id": 1,
+  "team_name": "team 1",
+  "team_members": [
+    {
+      "name": "player 1",
+      "throws": 0,
+      "in_throwing": true
+    }
+  ]
+}
